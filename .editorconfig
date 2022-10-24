@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS7003: Unexpected use of an unbound generic name
+dotnet_diagnostic.CS7003.severity = error
